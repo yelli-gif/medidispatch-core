@@ -1,2 +1,2 @@
-# medidispatch-core
-Système de régulation des ambulances – Projet L3
+# MEDILINK
+Application de Gestion Intégrée du Parcours Patient – Projet L3
